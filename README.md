@@ -9,9 +9,11 @@
 
 This toon shader is the vertex and fragment shader.
 
+![image](https://github.com/swordmaster003/Toon-Shader/blob/master/Screenshots/1.png)
+
 It has been tested on mobile device and can be used in your project directly.
 
-![image](https://github.com/swordmaster003/Toon-Shader/blob/master/Screenshots/1.png)
+![image](https://github.com/swordmaster003/Toon-Shader/blob/master/Screenshots/2.png)
 
 ## Download
 
